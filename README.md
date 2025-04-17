@@ -41,3 +41,5 @@ To use more than one gpu/machine, use MPI (e.g. `mpiexec -n 8 python run.py` sho
 - [Paper](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
 - [Project Website](https://pathak22.github.io/large-scale-curiosity/)
 - [Demo Video](https://youtu.be/l1FqtAHfJLI)
+
+Test line.
